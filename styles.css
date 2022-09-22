@@ -1,0 +1,50 @@
+.titulo{
+    text-align: center;
+}
+
+
+.Cuadro{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.Cuadrado{
+    width: 300px;
+    height: 300px;
+}
+.ListaMov{
+    position: fixed;
+}
+
+.Género{
+    display: flex;
+    margin: 4px;
+}
+
+.descuento{
+    text-align: center;
+}
+
+.contacto{
+    text-align: center;
+}
+
+.info{
+    text-align: center;
+}
+.info1{
+    display: flex;
+    text-align: center;
+}
+
+.info1.{
+    text-align: center;
+}
+
+.info2{
+    display: flex;
+    text-align: center;
+}
